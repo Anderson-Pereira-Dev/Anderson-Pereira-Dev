@@ -1,4 +1,4 @@
-## Oiii eu sou o Anderson Pereira, criador de conteúdo de programação e tecnologia!
+## Hi! eu sou o Anderson Pereira, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/anderson-pereira-dev">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anderson-pereira-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
