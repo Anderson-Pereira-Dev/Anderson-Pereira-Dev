@@ -1,8 +1,8 @@
 ## Oiii eu sou o Anderson Pereira, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/anderson-pereira-dev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anderson-pereira-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-pereira-dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=anderson-pereira-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-pereira-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Anderson-Js" height="40" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
